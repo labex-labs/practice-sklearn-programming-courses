@@ -12,9 +12,9 @@ scikit-learn は強力な Python の機械学習ライブラリです。この�
 
 |   インデックス | 名前                                                                                         | 難易度   | Repo                                                                   | 練習                                                                       |
 |----------------|----------------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|----------------------------------------------------------------------------|
-|              1 | [scikit-learn のクイックスタート](https://labex.io/ja/courses/quick-start-with-scikit-learn) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-scikit-learn) |
-|              2 | [Sklearn 実践ラボ](https://labex.io/ja/courses/sklearn-practice-labs)                        | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 ラボを開始](https://labex.io/ja/courses/sklearn-practice-labs)         |
-|              3 | [Sklearn 実践チャレンジ](https://labex.io/ja/courses/sklearn-practice-challenges)            | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 ラボを開始](https://labex.io/ja/courses/sklearn-practice-challenges)   |
+|              1 | [scikit-learn のクイックスタート](https://labex.io/ja/courses/quick-start-with-scikit-learn) | 初級     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 ラボを開始](https://labex.io/ja/courses/quick-start-with-scikit-learn) |
+|              2 | [Sklearn 実践ラボ](https://labex.io/ja/courses/sklearn-practice-labs)                        | 初級     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 ラボを開始](https://labex.io/ja/courses/sklearn-practice-labs)         |
+|              3 | [Sklearn 実践チャレンジ](https://labex.io/ja/courses/sklearn-practice-challenges)            | 初級     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 ラボを開始](https://labex.io/ja/courses/sklearn-practice-challenges)   |
 
 ## その他
 
