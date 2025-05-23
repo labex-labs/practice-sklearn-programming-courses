@@ -12,9 +12,9 @@ scikit-learn é uma poderosa biblioteca de machine learning em Python. Esta Skil
 
 |   Índice | Nome                                                                                        | Dificuldade   | Repo                                                                   | Prática                                                                     |
 |----------|---------------------------------------------------------------------------------------------|---------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-|        1 | [Início Rápido com scikit-learn](https://labex.io/pt/courses/quick-start-with-scikit-learn) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-scikit-learn) |
-|        2 | [Laboratórios Práticos de Sklearn](https://labex.io/pt/courses/sklearn-practice-labs)       | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 Iniciar Lab](https://labex.io/pt/courses/sklearn-practice-labs)         |
-|        3 | [Desafios Práticos de Sklearn](https://labex.io/pt/courses/sklearn-practice-challenges)     | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 Iniciar Lab](https://labex.io/pt/courses/sklearn-practice-challenges)   |
+|        1 | [Início Rápido com scikit-learn](https://labex.io/pt/courses/quick-start-with-scikit-learn) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-scikit-learn) |
+|        2 | [Laboratórios Práticos de Sklearn](https://labex.io/pt/courses/sklearn-practice-labs)       | Iniciante     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 Iniciar Lab](https://labex.io/pt/courses/sklearn-practice-labs)         |
+|        3 | [Desafios Práticos de Sklearn](https://labex.io/pt/courses/sklearn-practice-challenges)     | Iniciante     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 Iniciar Lab](https://labex.io/pt/courses/sklearn-practice-challenges)   |
 
 ## Mais
 
