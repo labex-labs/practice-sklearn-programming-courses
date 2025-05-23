@@ -12,9 +12,9 @@ scikit-learn 是一个强大的 Python 机器学习库。此技能树提供了�
 
 |   序号 | 名称                                                                               | 难度   | Repo                                                                   | 练习                                                                     |
 |--------|------------------------------------------------------------------------------------|--------|------------------------------------------------------------------------|--------------------------------------------------------------------------|
-|      1 | [scikit-learn 快速入门](https://labex.io/zh/courses/quick-start-with-scikit-learn) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-scikit-learn) |
-|      2 | [Sklearn 实践实验室](https://labex.io/zh/courses/sklearn-practice-labs)            | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 开始实验](https://labex.io/zh/courses/sklearn-practice-labs)         |
-|      3 | [Sklearn 实践挑战](https://labex.io/zh/courses/sklearn-practice-challenges)        | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 开始实验](https://labex.io/zh/courses/sklearn-practice-challenges)   |
+|      1 | [scikit-learn 快速入门](https://labex.io/zh/courses/quick-start-with-scikit-learn) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-scikit-learn) |
+|      2 | [Sklearn 实践实验室](https://labex.io/zh/courses/sklearn-practice-labs)            | 初级   | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 开始实验](https://labex.io/zh/courses/sklearn-practice-labs)         |
+|      3 | [Sklearn 实践挑战](https://labex.io/zh/courses/sklearn-practice-challenges)        | 初级   | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 开始实验](https://labex.io/zh/courses/sklearn-practice-challenges)   |
 
 ## 更多
 
