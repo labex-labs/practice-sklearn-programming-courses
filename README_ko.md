@@ -12,9 +12,9 @@ scikit-learn 은 강력한 Python 머신 러닝 라이브러리입니다. 이 �
 
 |   인덱스 | 이름                                                                                | 난이도   | Repo                                                                   | 연습                                                                      |
 |----------|-------------------------------------------------------------------------------------|----------|------------------------------------------------------------------------|---------------------------------------------------------------------------|
-|        1 | [scikit-learn 퀵 스타트](https://labex.io/ko/courses/quick-start-with-scikit-learn) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-scikit-learn) |
-|        2 | [Sklearn 실습 랩](https://labex.io/ko/courses/sklearn-practice-labs)                | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 실습 시작](https://labex.io/ko/courses/sklearn-practice-labs)         |
-|        3 | [Sklearn 실습 챌린지](https://labex.io/ko/courses/sklearn-practice-challenges)      | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 실습 시작](https://labex.io/ko/courses/sklearn-practice-challenges)   |
+|        1 | [scikit-learn 퀵 스타트](https://labex.io/ko/courses/quick-start-with-scikit-learn) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-scikit-learn) |
+|        2 | [Sklearn 실습 랩](https://labex.io/ko/courses/sklearn-practice-labs)                | 초급     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 실습 시작](https://labex.io/ko/courses/sklearn-practice-labs)         |
+|        3 | [Sklearn 실습 챌린지](https://labex.io/ko/courses/sklearn-practice-challenges)      | 초급     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 실습 시작](https://labex.io/ko/courses/sklearn-practice-challenges)   |
 
 ## 더 보기
 
