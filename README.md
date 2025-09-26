@@ -8,13 +8,12 @@
 <img width="128px" src="https://file.labex.io/path/N7q3t9dfWfEY.png">
 </div>
 
-scikit-learn is a powerful Python machine learning library. This Skill Tree provides a comprehensive learning path to master scikit-learn. It's perfect for data science beginners, offering a structured roadmap to understand ML algorithms, model selection, and evaluation. Through hands - on, non - video courses and practical exercises in a data science playground, you'll gain real - world experience in implementing machine learning solutions.
+Learn scikit-learn, a powerful Python machine learning library, with this comprehensive learning path. Designed for beginners, this roadmap provides a structured approach to mastering ML algorithms, model selection, and evaluation. The scikit-learn Courses include hands-on, non-video tutorials and practical exercises in a data science playground, enabling the development of real-world experience in implementing machine learning solutions.
 
-|   Index | Name                                                                                    | Difficulty   | Repo                                                                   | Practice                                                               |
-|---------|-----------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-|       1 | [Quick Start with scikit-learn](https://labex.io/courses/quick-start-with-scikit-learn) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-scikit-learn) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-scikit-learn) |
-|       2 | [Sklearn Practice Labs](https://labex.io/courses/sklearn-practice-labs)                 | Beginner     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-labs)         | [🚀 Start Lab](https://labex.io/courses/sklearn-practice-labs)         |
-|       3 | [Sklearn Practice Challenges](https://labex.io/courses/sklearn-practice-challenges)     | Beginner     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges)   | [🚀 Start Lab](https://labex.io/courses/sklearn-practice-challenges)   |
+|   Index | Name                                                                                | Difficulty   | Repo                                                                 | Practice                                                             |
+|---------|-------------------------------------------------------------------------------------|--------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+|       1 | [Scikit-learn for Beginners](https://labex.io/courses/scikit-learn-for-beginners)   | Beginner     | [🔗 Repo](https://github.com/labex-labs/scikit-learn-for-beginners)  | [🚀 Start Lab](https://labex.io/courses/scikit-learn-for-beginners)  |
+|       2 | [Sklearn Practice Challenges](https://labex.io/courses/sklearn-practice-challenges) | Beginner     | [🔗 Repo](https://github.com/labex-labs/sklearn-practice-challenges) | [🚀 Start Lab](https://labex.io/courses/sklearn-practice-challenges) |
 
 ## More
 
